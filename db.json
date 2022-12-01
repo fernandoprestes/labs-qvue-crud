@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Um posts",
+      "author": "Desconhecido",
+      "content": "Não tem nada aqui..."
+    }
+  ]
+}
