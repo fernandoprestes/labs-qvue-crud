@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "title": "VueJs",
+      "title": "VueJs 3",
       "author": "Vários",
       "category": "Front-End",
       "description": "VueJS é um framework JavaScript focado no desenvolvimento de interfaces para usuários e aplicativos de página única. Estudaremos os conceitos, binding, eventos, diretivas v-if, v-for e v-show. Aplicação de estilo CSS, templete na Vue instance, componentes e diretivas personalizadas."
